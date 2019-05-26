@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.orta{
+    width: 960px;
+    margin: auto;
+    display: flex;
+    border: 1px solid;
+}
+.iteml{
+   
+  
+    flex: 1;
+    margin: 10px
+    
+}
+img{
+    width: 100%
+}
+.detail{
+    padding: 10px 25px;
+}
+.detail h1{
+font-size: 18px
+}
+.xbox{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+.
